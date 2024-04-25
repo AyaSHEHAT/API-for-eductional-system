@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\mycomments.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\mycomments.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\apiday2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\apiday2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\unit_of_works\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\unit_of_works\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|e:\\iti-pd\u0026bi\\web api\\day3\\genrepowithunitwork\\apiday2\\apiday2\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384ACE4F-A28F-4E8E-86D3-E98B9363A010}|APIDay2\\APIDay2.csproj|solutionrelative:apiday2\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "APIDay2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:41:27.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\appsettings.json",
+              "RelativeDocumentMoniker": "APIDay2\\appsettings.json",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\appsettings.json",
+              "RelativeToolTip": "APIDay2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T18:35:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myComments.xml",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\myComments.xml",
+              "RelativeDocumentMoniker": "APIDay2\\myComments.xml",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\myComments.xml",
+              "RelativeToolTip": "APIDay2\\myComments.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-24T01:20:57.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIDay2",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\APIDay2.csproj",
+              "RelativeDocumentMoniker": "APIDay2\\APIDay2.csproj",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\APIDay2.csproj",
+              "RelativeToolTip": "APIDay2\\APIDay2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T01:20:17.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Controllers\\InstructorsController.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "APIDay2\\Controllers\\InstructorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:11:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "APIDay2\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwF0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:05:26.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Unit_Of_Works\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Unit_Of_Works\\UnitOfWork.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Unit_Of_Works\\UnitOfWork.cs",
+              "RelativeToolTip": "APIDay2\\Unit_Of_Works\\UnitOfWork.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:13:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Repos\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Repos\\GenericRepository.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Repos\\GenericRepository.cs",
+              "RelativeToolTip": "APIDay2\\Repos\\GenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:16:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "APIDay2\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:59:10.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Program.cs",
+              "RelativeDocumentMoniker": "APIDay2\\Program.cs",
+              "ToolTip": "E:\\ITI-PD\u0026BI\\Web API\\Day3\\GenRepoWithUnitWork\\APIDay2\\APIDay2\\Program.cs",
+              "RelativeToolTip": "APIDay2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:53:08.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

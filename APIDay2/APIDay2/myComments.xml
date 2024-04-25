@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIDay2</name>
+    </assembly>
+    <members>
+		<member name="M:APIDay2.Controllers.StudentsController.GetById(System.Int32)">
+			<summary>
+				get student by student id
+			</summary>
+			<param name="id"> student id</param>
+			<returns> list of students</returns>
+			<remarks>
+				request example:
+				/api/students/3
+			</remarks>
+		</member>
+    </members>
+</doc>
